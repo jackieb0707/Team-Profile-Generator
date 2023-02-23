@@ -1,0 +1,30 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "app to create team profile generator",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackieb0707/Team-Profile-Generator.git"
+},
+
+    "author": "Jacqueline Bell",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jackieb0707/Team-Profile-Generator"
+    },
+   
+    "devDependencies": {
+      "jest": "^26.0.1"
+    },
+"dependencies": {
+    "inquirer": "9.1.4"
+}
+  }
+  
